@@ -1,2 +1,2 @@
-Nombre: 
-Rut:
+Nombre: Benjamin Perez
+Rut: 207681741
